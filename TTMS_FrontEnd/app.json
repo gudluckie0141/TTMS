@@ -1,0 +1,19 @@
+{
+  "name": "TTMS",
+  "displayName": "TTMS",
+  "expo": {
+    "name": "TTMS",
+    "slug": "TTMS",
+    "version": "1.0.0",
+    "icon": "./app/assets/logo1.png",
+    "splash": {
+      "image": "./app/assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "TTMS stands for Trouble Ticketing Management System this application will help technician to open tickets opened by customer care not only that this app will help technician to get feedback from customer when he/she finishes his/her work."
+  }
+}
